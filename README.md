@@ -1,7 +1,5 @@
 ## Olá !! (Hi there) 👋
 
-#  Kauan Mariano
-
 **`Desenvolvedor Front-end (Brazilian Front-end Engineer)`**
 
 
