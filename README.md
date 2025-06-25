@@ -9,7 +9,7 @@
 <br>    
 
 ------------------------------------------------------------------------------------------------------------------
-    
+<br>    
 <p align="left"> My name is Kauan Mariano Silva, I am 27 years old and I am from Santo André - SP. I am currently studying Systems Analysis and Development at UNINOVE. I am passionate about technology and solving simple and complex problems.
 
 ### 🤖 Linguagens e Tecnologias (Languages and Technologies)
@@ -123,7 +123,7 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=KauanMSilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<br>
+    
 <img 
       align="left" 
       alt="GitHub Stats" 
