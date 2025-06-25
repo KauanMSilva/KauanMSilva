@@ -2,13 +2,13 @@
 
 **`Desenvolvedor Front-end (Brazilian Front-end Engineer)`**
    
-## 👋 Hi, I'm **Kauan Mariano**
+## 👋 Olá, meu nome é **Kauan Mariano**
 
-- 🎓 Currently studying **Systems Analysis and Development** at **UNINOVE**  
-- 💡 Passionate about **technology** and solving **problems**, from simple tasks to complex challenges  
-- 📍 Based in **Santo André, SP – Brazil**, 27 years old, always curious and eager to grow
-- 🚀 Always learning, building, and turning ideas into real solutions!
-- 🌱 I’m currently learning Next.js
+- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **UNINOVE**.
+- 💡 Apaixonado por **tecnologia** e por resolver **problemas**, de tarefas simples a desafios complexos.
+- 📍 Moro em **Santo André, SP – Brasil**, tenho 27 anos, sempre curioso e com vontade de crescer.
+- 🚀 Sempre aprendendo, construindo e transformando ideias em soluções reais!
+- 🌱 Atualmente estou aprendendo Next.js.
 
 
 
