@@ -13,7 +13,6 @@
 🚀 Sempre em busca de aprender, criar e transformar ideias em soluções reais!
 <br>
     
-------------------------------------------------------------------------------------------------------------------
    
 ## 👋 Hi, I'm **Kauan Mariano**
 
