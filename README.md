@@ -8,7 +8,7 @@
 ## 👋 Olá, eu sou o **Kauan Mariano**
 
 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNINOVE**  
-💡 Apaixonado por **tecnologia** e por **resolver problemas** — dos mais simples aos mais desafiadores  
+💡 Apaixonado por **tecnologia** e por **resolver problemas**, dos mais simples aos mais desafiadores  
 📍 De **Santo André - SP**, com 27 anos de muita curiosidade e vontade de evoluir sempre
 🚀 Sempre em busca de aprender, criar e transformar ideias em soluções reais!
 
@@ -16,7 +16,7 @@
 ## 👋 Hi, I'm **Kauan Mariano**
 
 🎓 Currently studying **Systems Analysis and Development** at **UNINOVE**  
-💡 Passionate about **technology** and solving **problems** — from simple tasks to complex challenges  
+💡 Passionate about **technology** and solving **problems**, from simple tasks to complex challenges  
 📍 Based in **Santo André, SP – Brazil**, 27 years old, always curious and eager to grow
 🚀 Always learning, building, and turning ideas into real solutions!
 
