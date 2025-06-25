@@ -9,7 +9,7 @@
 <br>
     
 ------------------------------------------------------------------------------------------------------------------
-<br>    
+   
 <p align="left"> My name is Kauan Mariano Silva, I am 27 years old and I am from Santo André - SP. I am currently studying Systems Analysis and Development at UNINOVE. I am passionate about technology and solving simple and complex problems.
 
 ### 🤖 Linguagens e Tecnologias (Languages and Technologies)
