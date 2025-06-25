@@ -6,7 +6,6 @@
 
 
 <p align="left">Me chamo Kauan Mariano Silva, tenho 27 anos e sou de Santo André - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE. Sou apaixonado por tecnologia e em resolver problemas simples e complexos.
-<br>
 <br>    
 
 ------------------------------------------------------------------------------------------------------------------
@@ -97,12 +96,9 @@
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <br>
-<br> 
   
-  
-  
-  ----------------------------------------------------------------------------------------------------------------
-<br>
+----------------------------------------------------------------------------------------------------------------
+
 <br> 
 
 <div> 
