@@ -5,7 +5,9 @@
 **`Desenvolvedor Front-end (Brazilian Front-end Engineer)`**
 
 
-<p align="left">Me chamo Kauan Mariano Silva, tenho 27 anos e sou de Santo André - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE. Sou apaixonado por tecnologia e em resolver problemas simples e complexos. 
+<p align="left">Me chamo Kauan Mariano Silva, tenho 27 anos e sou de Santo André - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE. Sou apaixonado por tecnologia e em resolver problemas simples e complexos.
+<br>
+<br>    
 
 ------------------------------------------------------------------------------------------------------------------
     
