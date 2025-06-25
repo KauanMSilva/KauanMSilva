@@ -10,7 +10,7 @@
 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNINOVE**  
 💡 Apaixonado por **tecnologia** e por **resolver problemas**, dos mais simples aos mais desafiadores  
 📍 De **Santo André - SP**, com 27 anos de muita curiosidade e vontade de evoluir sempre
-🚀 Sempre em busca de aprender, criar e transformar ideias em soluções reais!
+🚀 Sempre em busco de aprender, criar e transformar ideias em soluções reais!
 <br>
     
    
