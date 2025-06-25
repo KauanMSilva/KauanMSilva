@@ -6,7 +6,8 @@
 
 
 <p align="left">Me chamo Kauan Mariano Silva, tenho 27 anos e sou de Santo André - SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE. Sou apaixonado por tecnologia e em resolver problemas simples e complexos.
-<br>    
+<br>
+    
 ------------------------------------------------------------------------------------------------------------------
 <br>    
 <p align="left"> My name is Kauan Mariano Silva, I am 27 years old and I am from Santo André - SP. I am currently studying Systems Analysis and Development at UNINOVE. I am passionate about technology and solving simple and complex problems.
