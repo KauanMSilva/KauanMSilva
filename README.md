@@ -1,22 +1,15 @@
 ## Olá !! (Hi there) 👋
 
 **`Desenvolvedor Front-end (Brazilian Front-end Engineer)`**
-
-
-## 👋 Olá, eu sou o **Kauan Mariano**
-
-🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **UNINOVE**  
-💡 Apaixonado por **tecnologia** e por **resolver problemas**, dos mais simples aos mais desafiadores  
-📍 De **Santo André - SP**, com 27 anos de muita curiosidade e vontade de evoluir sempre
-🚀 Sempre em busca de aprender, criar e transformar ideias em soluções reais!
-
    
 ## 👋 Hi, I'm **Kauan Mariano**
 
-🎓 Currently studying **Systems Analysis and Development** at **UNINOVE**  
-💡 Passionate about **technology** and solving **problems**, from simple tasks to complex challenges  
-📍 Based in **Santo André, SP – Brazil**, 27 years old, always curious and eager to grow
-🚀 Always learning, building, and turning ideas into real solutions!
+- 🎓 Currently studying **Systems Analysis and Development** at **UNINOVE**  
+- 💡 Passionate about **technology** and solving **problems**, from simple tasks to complex challenges  
+- 📍 Based in **Santo André, SP – Brazil**, 27 years old, always curious and eager to grow
+- 🚀 Always learning, building, and turning ideas into real solutions!
+- 🌱 I’m currently learning Next.js
+
 
 
 ### 🤖 Linguagens e Tecnologias (Languages and Technologies)
@@ -140,17 +133,4 @@
 </p>
 
 
-<!--
-**KauanMSilva/KauanMSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
