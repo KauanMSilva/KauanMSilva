@@ -8,7 +8,7 @@
 - 💡 Apaixonado por **tecnologia** e por resolver **problemas**, de tarefas simples a desafios complexos.
 - 📍 Moro em **Santo André, SP – Brasil**, tenho 27 anos, sempre curioso e com vontade de crescer.
 - 🚀 Sempre aprendendo, construindo e transformando ideias em soluções reais!
-- 🌱 Atualmente estou aprendendo Next.js.
+- 🌱 Atualmente estou estudando Next.js e Node.js.
 
 
 
@@ -95,6 +95,16 @@
   width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+  
+<img 
+  align="left" 
+  alt="Node" 
+  title="Node"
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+          
 <br>
   
 ----------------------------------------------------------------------------------------------------------------
